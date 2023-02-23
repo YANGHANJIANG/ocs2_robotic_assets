@@ -196,14 +196,14 @@
   <link name="link6">
     <visual>
       <geometry>
-        <mesh filename="package://ocs2_robotic_assets/resources/mobile_manipulator/xarm/meshes/xarm6/visual/link6.stl"/>
+        <mesh filename="package://ocs2_robotic_assets/resources/mobile_manipulator/xarm/meshes/xarm6/visual/link6_full.stl"/>
       </geometry>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <material name="Silver"/>
     </visual>
     <collision>
       <geometry>
-        <mesh filename="package://ocs2_robotic_assets/resources/mobile_manipulator/xarm/meshes/xarm6/visual/link6.stl"/>
+        <mesh filename="package://ocs2_robotic_assets/resources/mobile_manipulator/xarm/meshes/xarm6/visual/link6_full.stl"/>
       </geometry>
       <origin rpy="0 0 0" xyz="0 0 0"/>
     </collision>
